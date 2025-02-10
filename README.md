@@ -17,19 +17,11 @@
 - 🏰 **Zombie Warriors** - A tower defense game on Roblox
 - 🌌 **Tech Experiments** - Various automation and security projects
 
-## 📊 **GitHub Stats & Activity**
-<img src="https://github-readme-stats.vercel.app/api?username=LucasMangroelal&show_icons=true&theme=tokyonight&count_private=true" width="400" alt="Lucas' GitHub Stats">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMangroelal&layout=compact&theme=tokyonight" width="400" alt="Top Languages">
-
-## 🏆 **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=LucasMangroelal&theme=matrix" width="600" alt="GitHub Trophy">
-
-## 🐍 **Contribution Snake Animation**
-<img src="https://github.com/LucasMangroelal/LucasMangroelal/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+## 🎞️ **Animated Cyberwave Banner**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber animation">
 
 ## 📬 **Let's Connect!**
-[![Website](https://img.shields.io/badge/-Website-0d0d0d?style=flat-square&logo=google-chrome)](https://your-website.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0088ff?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0088ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-mangroelal-4b458b348/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmangroelal/)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=150&section=footer&text=Built%20by%20Lucas%20M!&fontSize=25&fontColor=00ffcc)
