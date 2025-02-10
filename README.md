@@ -17,11 +17,10 @@
 - 🏰 **Zombie Warriors** - A tower defense game on Roblox
 - 🌌 **Tech Experiments** - Various automation and security projects
 
-## 🎞️ **Animated Cyberwave Banner**
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber animation">
-
 ## 📬 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0088ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-mangroelal-4b458b348/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmangroelal/)
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber animation">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=150&section=footer&text=Built%20by%20Lucas%20M!&fontSize=25&fontColor=00ffcc)
