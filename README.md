@@ -14,7 +14,7 @@
 
 ## 🎮 **Projects I'm Working On**
 - 🏗️ **How to Hack (HTH)** - Educating people on cybersecurity
-- 🏰 **Zombie Warriors** - A tower defense game on Roblox
+- 🏰 **Zombie Warriors** - developing discord bot's for a robloxs games discord server
 - 🌌 **Tech Experiments** - Various automation and security projects
 
 ## 🎞️ **Animated Cyberwave Banner**
