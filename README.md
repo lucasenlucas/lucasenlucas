@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Lucas%20M's%20Tech%20Lab!&fontSize=35&fontColor=00ffcc&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Lucas%20's%20git%20hub&fontSize=35&fontColor=00ffcc&fontAlignY=40)
 
 # 👋 Hi there, I'm Lucas!
 🚀 **Young Developer & Ethical Hacker**  
