@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Lucas%20M's%20Tech%20Lab!&fontSize=35&fontColor=00ffcc&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Bonjour!%20Je%20m'appelle%20Lucas%20|%20Hallo!%20Ik%20ben%20Lucas%20|%20Hello!%20I'm%20Lucas%20|%20Hola!%20Soy%20Lucas%20|%20Ciao!%20Sono%20Lucas&fontSize=30&fontColor=00ffcc&fontAlignY=40)
 
 # 👋 Hi there, I'm Lucas!
 🚀 **Young Developer & Ethical Hacker**  
@@ -17,10 +17,11 @@
 - 🏰 **Zombie Warriors** - A tower defense game on Roblox
 - 🌌 **Tech Experiments** - Various automation and security projects
 
+## 🎞️ **Animated Cyberwave Banner**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber animation">
+
 ## 📬 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0088ff?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-mangroelal-4b458b348/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucasmangroelal/)
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Cyber animation">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=150&section=footer&text=Built%20by%20Lucas%20M!&fontSize=25&fontColor=00ffcc)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=150&section=footer&text=Bonjour!%20Je%20m'appelle%20Lucas%20|%20Hallo!%20Ik%20ben%20Lucas%20|%20Hello!%20I'm%20Lucas%20|%20Hola!%20Soy%20Lucas%20|%20Ciao!%20Sono%20Lucas&fontSize=20&fontColor=00ffcc)
